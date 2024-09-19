@@ -1,4 +1,4 @@
-# MP2: Analyzing Email Interactions
+# Analyzing Email Interactions
 
 ## Motivation:
  
